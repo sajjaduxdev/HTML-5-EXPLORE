@@ -1,0 +1,56 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right:15px;
+}
+nav li:hover{
+    background-color: bisque;
+}   
+nav li a{
+    text-decoration: none;;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: burlywood;
+}
+.img-bandarban{
+    width: 100%;
+    height: 25%;
+}
+
+.form-sec{
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: bisque;
+    text-align: center;
+}
+.fill{
+    padding: 10px
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+input{
+    color: red;
+    padding: 5px;
+
+}
+fieldset{
+    align-content: center;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid black;
+    padding: 10px  20px;
+    text-align: center;
+}
+tfoot td{
+    color: red;
+    column-span: 3;
+}
